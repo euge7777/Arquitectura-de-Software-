@@ -1,0 +1,31 @@
+{
+      "ciudad": "Córdoba",
+        "sensores": [
+                {
+                          "id": 1,
+                                "ubicacion": "Centro",
+                                      "temperatura": 25.3,
+                                            "humedad": 60,
+                                                  "presion": 1012,
+                                                        "fecha": "2025-03-28T15:00:00Z"
+                },
+                    {
+                              "id": 2,
+                                    "ubicacion": "Nueva Córdoba",
+                                          "temperatura": 26.1,
+                                                "humedad": 58,
+                                                      "presion": 1010,
+                                                            "fecha": "2025-03-28T15:05:00Z"
+                    },
+                        {
+                                  "id": 3,
+                                        "ubicacion": "Alta Córdoba",
+                                              "temperatura": 24.7,
+                                                    "humedad": 65,
+                                                          "presion": 1013,
+                                                                "fecha": "2025-03-28T15:10:00Z"
+                        }
+        ]
+}
+
+                    
